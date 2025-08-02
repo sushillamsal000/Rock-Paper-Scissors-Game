@@ -5,7 +5,7 @@ A simple implementation of the classic Rock, Paper, Scissors game in Python.
 ## How to Run
 
 ```bash
-python "Rock, Paper, Scissors Game/main.py"
+python "Rock-Paper-Scissors-Game/main.py"
 ```
 
 ## How to Play
@@ -23,3 +23,4 @@ python "Rock, Paper, Scissors Game/main.py"
 ## Requirements
 
 - Python 3.x
+
